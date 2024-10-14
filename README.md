@@ -18,4 +18,4 @@ This is a Todo Application built using React . It allows user to manage their ta
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumitprajapati/Interview-Task.git
+   git clone https://github.com/sumitprajapati/Interview-task.git
